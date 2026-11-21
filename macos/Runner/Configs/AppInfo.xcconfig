@@ -1,0 +1,5 @@
+PRODUCT_NAME = untitled32
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.untitled32
+
+PRODUCT_COPYRIGHT = Copyright © 2026 com.example. All rights reserved.
